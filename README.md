@@ -14,9 +14,9 @@ Token Address @ Rinkeby|[0x953D227F19527BBD29ecE8Ed2b9857cbcDDbb884](https://rin
 Asset|Details
 ---|---
 Truffle Version|v5.1.36
-Solidity - 0.4.24 (solc-js)
-Node v10.15.3
-Web3.js v1.2.1
+Solidity|v0.4.24 (solc-js)
+Node|v10.15.3
+Web3.js|v1.2.1
 Packages added `truffle-hdwallet-provider` for rinkeby deployment
 
 ## Diagrams
